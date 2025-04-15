@@ -22,6 +22,15 @@ No setup required. Make sure both devices are on the same Wi-Fi network.
 
 ---
 
+## ⚠️ Known Limitations
+
+- If you are using a VPN on your PC, the app may detect and display the wrong IP address.  
+  Try disconnecting the VPN or manually entering your local IP address.
+- Both the PC and phone must be connected to the **same local network** (Wi-Fi).
+- Not available for macOS or Linux (Windows only, for now).
+
+---
+
 ## 📦 About
 
 - No installation needed
