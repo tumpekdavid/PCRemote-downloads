@@ -33,9 +33,12 @@ No setup required. Make sure both devices are on the same Wi-Fi network.
 
 ## 📦 About
 
-- No installation needed
+- Easy to install
 - Runs in the background
 - Works over local Wi-Fi
+
+⚠️ Note: Since PCRemote is not code-signed, some antivirus programs may show a warning when running the installer. This is a common occurrence for new or independent apps and does not mean the file is harmful.
+If you’d like extra peace of mind, you can always [scan the installer with VirusTotal](https://www.virustotal.com/) before running it.
 
 ---
 
