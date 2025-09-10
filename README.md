@@ -10,7 +10,7 @@ Start/pause movies, change the volume – all from the comfort of your couch.
 **Current Version:** v1.0.0  
 Released: April 2025
 
-👉 [**Download PCRemote installer**](./PCRemoteSetup_1.1.0.exe)
+👉 [**Download PCRemote installer**](./PCRemoteSetup_1.0.0.exe)
 
 ---
 
